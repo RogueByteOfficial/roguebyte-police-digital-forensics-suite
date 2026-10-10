@@ -4,6 +4,16 @@
 **Forensic Standard:** NIST SP 800-86 & ISO/IEC 27037 Compliant Architecture  
 **License / Classification:** Law Enforcement & Authorized Forensic Laboratory Use  
 
+## Screenshot
+
+![RogueByte Police Digital Forensics Suite screenshot](screenshoot.png)
+
+## Support RogueByte
+
+If you find this project useful, you can support its development on [Ko-fi](https://ko-fi.com/roguebyte).
+
+[![Support RogueByte on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/roguebyte)
+
 ---
 
 ## Language / اللغة
@@ -131,6 +141,16 @@ The suite includes pre-loaded synthetic forensic evidence (**Case #RBP-2026-0881
 
 <a name="التوثيق-باللغة-العربية"></a>
 # التوثيق باللغة العربية
+
+## لقطة شاشة
+
+![لقطة شاشة لمنظومة RogueByte Police Digital Forensics Suite](screenshoot.jpg)
+
+## دعم RogueByte
+
+إذا وجدت المشروع مفيداً، يمكنك دعم تطويره عبر [Ko-fi](https://ko-fi.com/roguebyte).
+
+[![ادعم RogueByte عبر Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/roguebyte)
 
 ## 1. نبذة عامة عن المنظومة والفلسفة الجنائية
 
@@ -314,4 +334,4 @@ python3 -m unittest discover -s tests/unit -p "test_*.py" -v
 
 ## 8. حدود المسؤولية والامتثال القانوني
 
-تم بناء هذه المنظومة للأغراض القضائية والقانونية ومكافحة الجرائم الإلكترونية، وتتوافق مع إرشادات **NIST SP 800-86** و **ISO/IEC 27037**. يجب مراجعة واعتماد جميع المخرجات من قبل خبير جنائي رقمي مؤهل قبل تقديمها للمحاكم المختصة.
+تم بناء هذه المنظومة للأغراض القضائية والقانونية ومكافحة الجرائم الإلكترونية، وتتوافق مع إرشادات **NIST SP 800-86** و **ISO/IEC 27037**. يجب مراجعة واعتماد جميع المخرجات من قبل خبير جنائي رقمي مؤهل قبل تقديمها للمحاكم المختصة
