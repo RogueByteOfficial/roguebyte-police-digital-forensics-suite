@@ -52,8 +52,8 @@ The suite is engineered around four core tenets of digital forensics science:
 
 ### Step 1: Clone or Extract the Repository
 ```bash
-git clone https://github.com/RogueByte/roguebyte-police-digital-forensics.git
-cd roguebyte-police-digital-forensics
+git clone https://github.com/RogueByte/roguebyte-police-digital-forensics-suite.git
+cd roguebyte-police-digital-forensics-suite
 ```
 
 ### Step 2: Install Node.js Dependencies (for Workstation GUI)
@@ -179,8 +179,8 @@ The suite includes pre-loaded synthetic forensic evidence (**Case #RBP-2026-0881
 
 ### الخطوة 1: استنساخ أو تحميل المستودع
 ```bash
-git clone https://github.com/RogueByte/roguebyte-police-digital-forensics.git
-cd roguebyte-police-digital-forensics
+git clone https://github.com/RogueByte/roguebyte-police-digital-forensics-suite.git
+cd roguebyte-police-digital-forensics-suite
 ```
 
 ### الخطوة 2: تثبيت حزم واجهة الويب (Node.js)
