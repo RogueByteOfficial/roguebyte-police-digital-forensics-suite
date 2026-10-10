@@ -1,0 +1,17 @@
+[project]
+name = "rbp-dfs"
+version = "1.0.4"
+description = "RogueByte Police Digital Forensics Suite - Law Enforcement Digital Evidence Analysis Platform"
+authors = [{ name = "SidoDev-Dz", email = "sidodev.dz@roguebyte.local" }]
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "Proprietary / Law Enforcement Authorized Use" }
+dependencies = []
+
+[project.scripts]
+rbp-dfs = "rbp_dfs.main:main"
+rbp-dfs-cli = "rbp_dfs.cli.menu:main"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
